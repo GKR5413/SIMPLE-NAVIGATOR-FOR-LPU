@@ -1,1 +1,2 @@
-# SIMPLE-NAVIGATOR-FOR-LPU
+# Ai_Project
+Simple Navigator for LPU
